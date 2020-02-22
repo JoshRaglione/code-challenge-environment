@@ -1,0 +1,16 @@
+{
+  "name": "code-challenge-environment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Josh Raglione",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.8.3",
+    "babel": "^6.23.0",
+    "jest": "^25.1.0"
+  }
+}
